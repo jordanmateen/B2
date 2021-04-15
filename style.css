@@ -5,5 +5,7 @@
 
 .wrapper {
     width: 50%;
+    /* border-style: solid; */
+    border-radius: 3px;
     margin: 0 auto;
 }
