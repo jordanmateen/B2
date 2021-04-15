@@ -1,0 +1,9 @@
+.box {
+    height: 100px;
+    border-style: solid;
+}
+
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
